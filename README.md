@@ -24,4 +24,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![me](https://github.com/dustinburda/instagram/blob/main/recording.gif)
+![me](https://github.com/dustinburda/instagram/blob/main/recording2.gif)
